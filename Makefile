@@ -18,6 +18,5 @@ container-lint:
 	docker run --rm -i hadolint/hadolint < Dockerfile
 
 refactor: format lint
-
 		
 all: install lint test format

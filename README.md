@@ -100,7 +100,7 @@ pip install pyspark
 
 ## Logged Output
 
-The logged markdown file could be found ![here](https://github.com/nogibjj/Su_Zhang_PySpark_Project/blob/main/pyspark_process.md).
+The logged markdown file could be found [here](https://github.com/nogibjj/Su_Zhang_PySpark_Project/blob/main/pyspark_process.md).
 
 ## References
 
